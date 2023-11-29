@@ -4591,12 +4591,12 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Empty(Of T)()
   nameWithType: UniTaskAsyncEnumerable.Empty<T>()
   nameWithType.vb: UniTaskAsyncEnumerable.Empty(Of T)()
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  name: EveryUpdate(PlayerLoopTiming, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_EveryUpdate_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.EveryUpdate(PlayerLoopTiming, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming)
+  name: EveryUpdate(PlayerLoopTiming)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_EveryUpdate_Cysharp_Threading_Tasks_PlayerLoopTiming_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate(Cysharp.Threading.Tasks.PlayerLoopTiming)
+  nameWithType: UniTaskAsyncEnumerable.EveryUpdate(PlayerLoopTiming)
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryUpdate*
   name: EveryUpdate
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_EveryUpdate_
@@ -4611,15 +4611,15 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged
   nameWithType: UniTaskAsyncEnumerable.EveryValueChanged
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Boolean)
-  name: EveryValueChanged<TTarget, TProperty>(TTarget, Func<TTarget, TProperty>, PlayerLoopTiming, IEqualityComparer<TProperty>, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_EveryValueChanged__2___0_System_Func___0___1__Cysharp_Threading_Tasks_PlayerLoopTiming_IEqualityComparer___1__System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Boolean)
-  name.vb: EveryValueChanged(Of TTarget, TProperty)(TTarget, Func(Of TTarget, TProperty), PlayerLoopTiming, IEqualityComparer(Of TProperty), Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged<TTarget, TProperty>(TTarget, System.Func<TTarget, TProperty>, Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer<TProperty>, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged(Of TTarget, TProperty)(TTarget, System.Func(Of TTarget, TProperty), Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer(Of TProperty), System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.EveryValueChanged<TTarget, TProperty>(TTarget, Func<TTarget, TProperty>, PlayerLoopTiming, IEqualityComparer<TProperty>, Boolean)
-  nameWithType.vb: UniTaskAsyncEnumerable.EveryValueChanged(Of TTarget, TProperty)(TTarget, Func(Of TTarget, TProperty), PlayerLoopTiming, IEqualityComparer(Of TProperty), Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1})
+  name: EveryValueChanged<TTarget, TProperty>(TTarget, Func<TTarget, TProperty>, PlayerLoopTiming, IEqualityComparer<TProperty>)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_EveryValueChanged__2___0_System_Func___0___1__Cysharp_Threading_Tasks_PlayerLoopTiming_IEqualityComparer___1__
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1})
+  name.vb: EveryValueChanged(Of TTarget, TProperty)(TTarget, Func(Of TTarget, TProperty), PlayerLoopTiming, IEqualityComparer(Of TProperty))
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged<TTarget, TProperty>(TTarget, System.Func<TTarget, TProperty>, Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer<TProperty>)
+  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.EveryValueChanged(Of TTarget, TProperty)(TTarget, System.Func(Of TTarget, TProperty), Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer(Of TProperty))
+  nameWithType: UniTaskAsyncEnumerable.EveryValueChanged<TTarget, TProperty>(TTarget, Func<TTarget, TProperty>, PlayerLoopTiming, IEqualityComparer<TProperty>)
+  nameWithType.vb: UniTaskAsyncEnumerable.EveryValueChanged(Of TTarget, TProperty)(TTarget, Func(Of TTarget, TProperty), PlayerLoopTiming, IEqualityComparer(Of TProperty))
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Except*
   name: Except
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Except_
@@ -5171,12 +5171,12 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Intersect(Of TSource)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of TSource), Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of TSource), IEqualityComparer(Of TSource))
   nameWithType: UniTaskAsyncEnumerable.Intersect<TSource>(IUniTaskAsyncEnumerable<TSource>, IUniTaskAsyncEnumerable<TSource>, IEqualityComparer<TSource>)
   nameWithType.vb: UniTaskAsyncEnumerable.Intersect(Of TSource)(IUniTaskAsyncEnumerable(Of TSource), IUniTaskAsyncEnumerable(Of TSource), IEqualityComparer(Of TSource))
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  name: Interval(TimeSpan, PlayerLoopTiming, Boolean, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Interval_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.Interval(TimeSpan, PlayerLoopTiming, Boolean, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  name: Interval(TimeSpan, PlayerLoopTiming, Boolean)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Interval_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval(System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
+  nameWithType: UniTaskAsyncEnumerable.Interval(TimeSpan, PlayerLoopTiming, Boolean)
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval*
   name: Interval
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Interval_
@@ -5184,12 +5184,12 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Interval
   nameWithType: UniTaskAsyncEnumerable.Interval
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  name: IntervalFrame(Int32, PlayerLoopTiming, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_IntervalFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.IntervalFrame(Int32, PlayerLoopTiming, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  name: IntervalFrame(Int32, PlayerLoopTiming)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_IntervalFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming)
+  nameWithType: UniTaskAsyncEnumerable.IntervalFrame(Int32, PlayerLoopTiming)
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.IntervalFrame*
   name: IntervalFrame
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_IntervalFrame_
@@ -5860,49 +5860,6 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.MaxAwaitWithCancellationAsync(Of TSource, TResult)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of TSource), System.Func(Of TSource, System.Threading.CancellationToken, Cysharp.Threading.Tasks.UniTask(Of TResult)), System.Threading.CancellationToken)
   nameWithType: UniTaskAsyncEnumerable.MaxAwaitWithCancellationAsync<TSource, TResult>(IUniTaskAsyncEnumerable<TSource>, Func<TSource, CancellationToken, UniTask<TResult>>, CancellationToken)
   nameWithType.vb: UniTaskAsyncEnumerable.MaxAwaitWithCancellationAsync(Of TSource, TResult)(IUniTaskAsyncEnumerable(Of TSource), Func(Of TSource, CancellationToken, UniTask(Of TResult)), CancellationToken)
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge*
-  name: Merge
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Merge_
-  commentId: Overload:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge
-  isSpec: "True"
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge
-  nameWithType: UniTaskAsyncEnumerable.Merge
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0})
-  name: Merge<T>(IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Merge__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0})
-  name.vb: Merge(Of T)(IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T))
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>)
-  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T))
-  nameWithType: UniTaskAsyncEnumerable.Merge<T>(IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>)
-  nameWithType.vb: UniTaskAsyncEnumerable.Merge(Of T)(IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T))
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0})
-  name: Merge<T>(IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Merge__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0})
-  name.vb: Merge(Of T)(IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T))
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>)
-  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T))
-  nameWithType: UniTaskAsyncEnumerable.Merge<T>(IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>, IUniTaskAsyncEnumerable<T>)
-  nameWithType.vb: UniTaskAsyncEnumerable.Merge(Of T)(IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T), IUniTaskAsyncEnumerable(Of T))
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0}[])
-  name: Merge<T>(IUniTaskAsyncEnumerable<T>[])
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Merge__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0____
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0}[])
-  name.vb: Merge(Of T)(IUniTaskAsyncEnumerable(Of T)())
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>[])
-  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T)())
-  nameWithType: UniTaskAsyncEnumerable.Merge<T>(IUniTaskAsyncEnumerable<T>[])
-  nameWithType.vb: UniTaskAsyncEnumerable.Merge(Of T)(IUniTaskAsyncEnumerable(Of T)())
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(IEnumerable{Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0}})
-  name: Merge<T>(IEnumerable<IUniTaskAsyncEnumerable<T>>)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Merge__1_IEnumerable_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0___
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge``1(IEnumerable{Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0}})
-  name.vb: Merge(Of T)(IEnumerable(Of IUniTaskAsyncEnumerable(Of T)))
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge<T>(IEnumerable<Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>>)
-  fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Merge(Of T)(IEnumerable(Of Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T)))
-  nameWithType: UniTaskAsyncEnumerable.Merge<T>(IEnumerable<IUniTaskAsyncEnumerable<T>>)
-  nameWithType.vb: UniTaskAsyncEnumerable.Merge(Of T)(IEnumerable(Of IUniTaskAsyncEnumerable(Of T)))
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.MinAsync(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.Decimal},System.Threading.CancellationToken)
   name: MinAsync(IUniTaskAsyncEnumerable<Decimal>, CancellationToken)
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_MinAsync_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable_System_Decimal__System_Threading_CancellationToken_
@@ -8079,18 +8036,18 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Throw(Of TValue)(System.Exception)
   nameWithType: UniTaskAsyncEnumerable.Throw<TValue>(Exception)
   nameWithType.vb: UniTaskAsyncEnumerable.Throw(Of TValue)(Exception)
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  name: Timer(TimeSpan, PlayerLoopTiming, Boolean, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Timer_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.Timer(TimeSpan, PlayerLoopTiming, Boolean, Boolean)
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  name: Timer(TimeSpan, TimeSpan, PlayerLoopTiming, Boolean, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Timer_System_TimeSpan_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan, System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.Timer(TimeSpan, TimeSpan, PlayerLoopTiming, Boolean, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  name: Timer(TimeSpan, PlayerLoopTiming, Boolean)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Timer_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
+  nameWithType: UniTaskAsyncEnumerable.Timer(TimeSpan, PlayerLoopTiming, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  name: Timer(TimeSpan, TimeSpan, PlayerLoopTiming, Boolean)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Timer_System_TimeSpan_System_TimeSpan_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan,System.TimeSpan,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer(System.TimeSpan, System.TimeSpan, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
+  nameWithType: UniTaskAsyncEnumerable.Timer(TimeSpan, TimeSpan, PlayerLoopTiming, Boolean)
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer*
   name: Timer
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_Timer_
@@ -8098,18 +8055,18 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.Timer
   nameWithType: UniTaskAsyncEnumerable.Timer
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  name: TimerFrame(Int32, PlayerLoopTiming, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_TimerFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.TimerFrame(Int32, PlayerLoopTiming, Boolean)
-- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  name: TimerFrame(Int32, Int32, PlayerLoopTiming, Boolean)
-  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_TimerFrame_System_Int32_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32, System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
-  nameWithType: UniTaskAsyncEnumerable.TimerFrame(Int32, Int32, PlayerLoopTiming, Boolean)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  name: TimerFrame(Int32, PlayerLoopTiming)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_TimerFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming)
+  nameWithType: UniTaskAsyncEnumerable.TimerFrame(Int32, PlayerLoopTiming)
+- uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  name: TimerFrame(Int32, Int32, PlayerLoopTiming)
+  href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_TimerFrame_System_Int32_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_
+  commentId: M:Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32,System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  fullName: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame(System.Int32, System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming)
+  nameWithType: UniTaskAsyncEnumerable.TimerFrame(Int32, Int32, PlayerLoopTiming)
 - uid: Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.TimerFrame*
   name: TimerFrame
   href: api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html#Cysharp_Threading_Tasks_Linq_UniTaskAsyncEnumerable_TimerFrame_
@@ -18145,30 +18102,30 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.UniTask.Defer(Of T)(System.Func(Of Cysharp.Threading.Tasks.UniTask(Of T)))
   nameWithType: UniTask.Defer<T>(Func<UniTask<T>>)
   nameWithType.vb: UniTask.Defer(Of T)(Func(Of UniTask(Of T)))
-- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: Delay(Int32, DelayType, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_Int32_Cysharp_Threading_Tasks_DelayType_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32, Cysharp.Threading.Tasks.DelayType, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Delay(Int32, DelayType, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: Delay(Int32, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_Int32_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Delay(Int32, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: Delay(TimeSpan, DelayType, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_TimeSpan_Cysharp_Threading_Tasks_DelayType_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan, Cysharp.Threading.Tasks.DelayType, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Delay(TimeSpan, DelayType, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: Delay(TimeSpan, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_TimeSpan_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Delay(TimeSpan, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: Delay(Int32, DelayType, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_Int32_Cysharp_Threading_Tasks_DelayType_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32, Cysharp.Threading.Tasks.DelayType, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.Delay(Int32, DelayType, PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: Delay(Int32, Boolean, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_Int32_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.Int32, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.Delay(Int32, Boolean, PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: Delay(TimeSpan, DelayType, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_TimeSpan_Cysharp_Threading_Tasks_DelayType_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,Cysharp.Threading.Tasks.DelayType,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan, Cysharp.Threading.Tasks.DelayType, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.Delay(TimeSpan, DelayType, PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: Delay(TimeSpan, Boolean, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_System_TimeSpan_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Delay(System.TimeSpan, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.Delay(TimeSpan, Boolean, PlayerLoopTiming, CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.Delay*
   name: Delay
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Delay_
@@ -18176,12 +18133,12 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UniTask.Delay
   nameWithType: UniTask.Delay
-- uid: Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: DelayFrame(Int32, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_DelayFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.DelayFrame(Int32, PlayerLoopTiming, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: DelayFrame(Int32, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_DelayFrame_System_Int32_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.DelayFrame(System.Int32, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.DelayFrame(Int32, PlayerLoopTiming, CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.DelayFrame*
   name: DelayFrame
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_DelayFrame_
@@ -18321,18 +18278,18 @@ references:
   commentId: M:Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming)
   fullName: Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming)
   nameWithType: UniTask.NextFrame(PlayerLoopTiming)
-- uid: Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: NextFrame(PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_NextFrame_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.NextFrame(PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken,System.Boolean)
-  name: NextFrame(CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_NextFrame_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.NextFrame(CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: NextFrame(PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_NextFrame_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.NextFrame(Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.NextFrame(PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken)
+  name: NextFrame(CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_NextFrame_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.NextFrame(System.Threading.CancellationToken)
+  nameWithType: UniTask.NextFrame(CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.NextFrame*
   name: NextFrame
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_NextFrame_
@@ -18684,24 +18641,12 @@ references:
   commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame
   fullName: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame()
   nameWithType: UniTask.WaitForEndOfFrame()
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour)
-  name: WaitForEndOfFrame(MonoBehaviour)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForEndOfFrame_MonoBehaviour_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour)
-  nameWithType: UniTask.WaitForEndOfFrame(MonoBehaviour)
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour,System.Threading.CancellationToken,System.Boolean)
-  name: WaitForEndOfFrame(MonoBehaviour, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForEndOfFrame_MonoBehaviour_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(MonoBehaviour, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitForEndOfFrame(MonoBehaviour, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken,System.Boolean)
-  name: WaitForEndOfFrame(CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForEndOfFrame_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitForEndOfFrame(CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken)
+  name: WaitForEndOfFrame(CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForEndOfFrame_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame(System.Threading.CancellationToken)
+  nameWithType: UniTask.WaitForEndOfFrame(CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.WaitForEndOfFrame*
   name: WaitForEndOfFrame
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForEndOfFrame_
@@ -18715,12 +18660,12 @@ references:
   commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate
   fullName: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate()
   nameWithType: UniTask.WaitForFixedUpdate()
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken,System.Boolean)
-  name: WaitForFixedUpdate(CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForFixedUpdate_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitForFixedUpdate(CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken)
+  name: WaitForFixedUpdate(CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForFixedUpdate_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate(System.Threading.CancellationToken)
+  nameWithType: UniTask.WaitForFixedUpdate(CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate*
   name: WaitForFixedUpdate
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForFixedUpdate_
@@ -18728,34 +18673,15 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UniTask.WaitForFixedUpdate
   nameWithType: UniTask.WaitForFixedUpdate
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: WaitForSeconds(Int32, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForSeconds_System_Int32_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Int32,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Int32, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitForSeconds(Int32, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Single,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: WaitForSeconds(Single, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForSeconds_System_Single_System_Boolean_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Single,System.Boolean,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForSeconds(System.Single, System.Boolean, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitForSeconds(Single, Boolean, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.WaitForSeconds*
-  name: WaitForSeconds
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitForSeconds_
-  commentId: Overload:Cysharp.Threading.Tasks.UniTask.WaitForSeconds
-  isSpec: "True"
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitForSeconds
-  nameWithType: UniTask.WaitForSeconds
-- uid: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: WaitUntil(Func<Boolean>, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntil_System_Func_System_Boolean__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name.vb: WaitUntil(Func(Of Boolean), PlayerLoopTiming, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func<System.Boolean>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func(Of System.Boolean), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitUntil(Func<Boolean>, PlayerLoopTiming, CancellationToken, Boolean)
-  nameWithType.vb: UniTask.WaitUntil(Func(Of Boolean), PlayerLoopTiming, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: WaitUntil(Func<Boolean>, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntil_System_Func_System_Boolean__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name.vb: WaitUntil(Func(Of Boolean), PlayerLoopTiming, CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func<System.Boolean>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitUntil(System.Func(Of System.Boolean), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.WaitUntil(Func<Boolean>, PlayerLoopTiming, CancellationToken)
+  nameWithType.vb: UniTask.WaitUntil(Func(Of Boolean), PlayerLoopTiming, CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.WaitUntil*
   name: WaitUntil
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntil_
@@ -18763,12 +18689,12 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UniTask.WaitUntil
   nameWithType: UniTask.WaitUntil
-- uid: Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  name: WaitUntilCanceled(CancellationToken, PlayerLoopTiming, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntilCanceled_System_Threading_CancellationToken_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Boolean)
-  nameWithType: UniTask.WaitUntilCanceled(CancellationToken, PlayerLoopTiming, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  name: WaitUntilCanceled(CancellationToken, PlayerLoopTiming)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntilCanceled_System_Threading_CancellationToken_Cysharp_Threading_Tasks_PlayerLoopTiming_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken,Cysharp.Threading.Tasks.PlayerLoopTiming)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled(System.Threading.CancellationToken, Cysharp.Threading.Tasks.PlayerLoopTiming)
+  nameWithType: UniTask.WaitUntilCanceled(CancellationToken, PlayerLoopTiming)
 - uid: Cysharp.Threading.Tasks.UniTask.WaitUntilCanceled*
   name: WaitUntilCanceled
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntilCanceled_
@@ -18783,24 +18709,24 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged
   nameWithType: UniTask.WaitUntilValueChanged
-- uid: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Threading.CancellationToken,System.Boolean)
-  name: WaitUntilValueChanged<T, U>(T, Func<T, U>, PlayerLoopTiming, IEqualityComparer<U>, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntilValueChanged__2___0_System_Func___0___1__Cysharp_Threading_Tasks_PlayerLoopTiming_IEqualityComparer___1__System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Threading.CancellationToken,System.Boolean)
-  name.vb: WaitUntilValueChanged(Of T, U)(T, Func(Of T, U), PlayerLoopTiming, IEqualityComparer(Of U), CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged<T, U>(T, System.Func<T, U>, Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer<U>, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged(Of T, U)(T, System.Func(Of T, U), Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer(Of U), System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitUntilValueChanged<T, U>(T, Func<T, U>, PlayerLoopTiming, IEqualityComparer<U>, CancellationToken, Boolean)
-  nameWithType.vb: UniTask.WaitUntilValueChanged(Of T, U)(T, Func(Of T, U), PlayerLoopTiming, IEqualityComparer(Of U), CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: WaitWhile(Func<Boolean>, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitWhile_System_Func_System_Boolean__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name.vb: WaitWhile(Func(Of Boolean), PlayerLoopTiming, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func<System.Boolean>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func(Of System.Boolean), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.WaitWhile(Func<Boolean>, PlayerLoopTiming, CancellationToken, Boolean)
-  nameWithType.vb: UniTask.WaitWhile(Func(Of Boolean), PlayerLoopTiming, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Threading.CancellationToken)
+  name: WaitUntilValueChanged<T, U>(T, Func<T, U>, PlayerLoopTiming, IEqualityComparer<U>, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitUntilValueChanged__2___0_System_Func___0___1__Cysharp_Threading_Tasks_PlayerLoopTiming_IEqualityComparer___1__System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged``2(``0,System.Func{``0,``1},Cysharp.Threading.Tasks.PlayerLoopTiming,IEqualityComparer{``1},System.Threading.CancellationToken)
+  name.vb: WaitUntilValueChanged(Of T, U)(T, Func(Of T, U), PlayerLoopTiming, IEqualityComparer(Of U), CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged<T, U>(T, System.Func<T, U>, Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer<U>, System.Threading.CancellationToken)
+  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitUntilValueChanged(Of T, U)(T, System.Func(Of T, U), Cysharp.Threading.Tasks.PlayerLoopTiming, IEqualityComparer(Of U), System.Threading.CancellationToken)
+  nameWithType: UniTask.WaitUntilValueChanged<T, U>(T, Func<T, U>, PlayerLoopTiming, IEqualityComparer<U>, CancellationToken)
+  nameWithType.vb: UniTask.WaitUntilValueChanged(Of T, U)(T, Func(Of T, U), PlayerLoopTiming, IEqualityComparer(Of U), CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: WaitWhile(Func<Boolean>, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitWhile_System_Func_System_Boolean__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func{System.Boolean},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name.vb: WaitWhile(Func(Of Boolean), PlayerLoopTiming, CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func<System.Boolean>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  fullName.vb: Cysharp.Threading.Tasks.UniTask.WaitWhile(System.Func(Of System.Boolean), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.WaitWhile(Func<Boolean>, PlayerLoopTiming, CancellationToken)
+  nameWithType.vb: UniTask.WaitWhile(Func(Of Boolean), PlayerLoopTiming, CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.WaitWhile*
   name: WaitWhile
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_WaitWhile_
@@ -19167,18 +19093,18 @@ references:
   commentId: M:Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming)
   fullName: Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming)
   nameWithType: UniTask.Yield(PlayerLoopTiming)
-- uid: Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: Yield(PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Yield_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Yield(PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken,System.Boolean)
-  name: Yield(CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Yield_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UniTask.Yield(CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: Yield(PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Yield_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Yield(Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UniTask.Yield(PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken)
+  name: Yield(CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Yield_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UniTask.Yield(System.Threading.CancellationToken)
+  nameWithType: UniTask.Yield(CancellationToken)
 - uid: Cysharp.Threading.Tasks.UniTask.Yield*
   name: Yield
   href: api/Cysharp.Threading.Tasks.UniTask.html#Cysharp_Threading_Tasks_UniTask_Yield_
@@ -21690,30 +21616,30 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.StartAsyncCoroutine
   nameWithType: UnityAsyncExtensions.StartAsyncCoroutine
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: ToUniTask(AsyncGPUReadbackRequest, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_AsyncGPUReadbackRequest_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest, PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: ToUniTask(AsyncOperation, IProgress<Single>, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_AsyncOperation_System_IProgress_System_Single__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name.vb: ToUniTask(AsyncOperation, IProgress(Of Single), PlayerLoopTiming, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation, System.IProgress<System.Single>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation, System.IProgress(Of System.Single), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.ToUniTask(AsyncOperation, IProgress<Single>, PlayerLoopTiming, CancellationToken, Boolean)
-  nameWithType.vb: UnityAsyncExtensions.ToUniTask(AsyncOperation, IProgress(Of Single), PlayerLoopTiming, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name: ToUniTask(ResourceRequest, IProgress<Single>, PlayerLoopTiming, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_ResourceRequest_System_IProgress_System_Single__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken,System.Boolean)
-  name.vb: ToUniTask(ResourceRequest, IProgress(Of Single), PlayerLoopTiming, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest, System.IProgress<System.Single>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest, System.IProgress(Of System.Single), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.ToUniTask(ResourceRequest, IProgress<Single>, PlayerLoopTiming, CancellationToken, Boolean)
-  nameWithType.vb: UnityAsyncExtensions.ToUniTask(ResourceRequest, IProgress(Of Single), PlayerLoopTiming, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: ToUniTask(AsyncGPUReadbackRequest, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_AsyncGPUReadbackRequest_Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest,Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UnityAsyncExtensions.ToUniTask(AsyncGPUReadbackRequest, PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: ToUniTask(AsyncOperation, IProgress<Single>, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_AsyncOperation_System_IProgress_System_Single__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name.vb: ToUniTask(AsyncOperation, IProgress(Of Single), PlayerLoopTiming, CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation, System.IProgress<System.Single>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  fullName.vb: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(AsyncOperation, System.IProgress(Of System.Single), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UnityAsyncExtensions.ToUniTask(AsyncOperation, IProgress<Single>, PlayerLoopTiming, CancellationToken)
+  nameWithType.vb: UnityAsyncExtensions.ToUniTask(AsyncOperation, IProgress(Of Single), PlayerLoopTiming, CancellationToken)
+- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name: ToUniTask(ResourceRequest, IProgress<Single>, PlayerLoopTiming, CancellationToken)
+  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_ResourceRequest_System_IProgress_System_Single__Cysharp_Threading_Tasks_PlayerLoopTiming_System_Threading_CancellationToken_
+  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest,System.IProgress{System.Single},Cysharp.Threading.Tasks.PlayerLoopTiming,System.Threading.CancellationToken)
+  name.vb: ToUniTask(ResourceRequest, IProgress(Of Single), PlayerLoopTiming, CancellationToken)
+  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest, System.IProgress<System.Single>, Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  fullName.vb: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask(ResourceRequest, System.IProgress(Of System.Single), Cysharp.Threading.Tasks.PlayerLoopTiming, System.Threading.CancellationToken)
+  nameWithType: UnityAsyncExtensions.ToUniTask(ResourceRequest, IProgress<Single>, PlayerLoopTiming, CancellationToken)
+  nameWithType.vb: UnityAsyncExtensions.ToUniTask(ResourceRequest, IProgress(Of Single), PlayerLoopTiming, CancellationToken)
 - uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.ToUniTask*
   name: ToUniTask
   href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_ToUniTask_
@@ -21727,36 +21653,18 @@ references:
   commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest,System.Threading.CancellationToken)
   fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest, System.Threading.CancellationToken)
   nameWithType: UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest, CancellationToken)
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest,System.Threading.CancellationToken,System.Boolean)
-  name: WithCancellation(AsyncGPUReadbackRequest, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_AsyncGPUReadbackRequest_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.WithCancellation(AsyncGPUReadbackRequest, CancellationToken, Boolean)
 - uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation,System.Threading.CancellationToken)
   name: WithCancellation(AsyncOperation, CancellationToken)
   href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_AsyncOperation_System_Threading_CancellationToken_
   commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation,System.Threading.CancellationToken)
   fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation, System.Threading.CancellationToken)
   nameWithType: UnityAsyncExtensions.WithCancellation(AsyncOperation, CancellationToken)
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation,System.Threading.CancellationToken,System.Boolean)
-  name: WithCancellation(AsyncOperation, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_AsyncOperation_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(AsyncOperation, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.WithCancellation(AsyncOperation, CancellationToken, Boolean)
 - uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest,System.Threading.CancellationToken)
   name: WithCancellation(ResourceRequest, CancellationToken)
   href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_ResourceRequest_System_Threading_CancellationToken_
   commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest,System.Threading.CancellationToken)
   fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest, System.Threading.CancellationToken)
   nameWithType: UnityAsyncExtensions.WithCancellation(ResourceRequest, CancellationToken)
-- uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest,System.Threading.CancellationToken,System.Boolean)
-  name: WithCancellation(ResourceRequest, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_ResourceRequest_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest,System.Threading.CancellationToken,System.Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation(ResourceRequest, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityAsyncExtensions.WithCancellation(ResourceRequest, CancellationToken, Boolean)
 - uid: Cysharp.Threading.Tasks.UnityAsyncExtensions.WithCancellation*
   name: WithCancellation
   href: api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html#Cysharp_Threading_Tasks_UnityAsyncExtensions_WithCancellation_
@@ -21788,24 +21696,24 @@ references:
   fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of System.Boolean), Selectable, System.Threading.CancellationToken, System.Boolean)
   nameWithType: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable<Boolean>, Selectable, CancellationToken, Boolean)
   nameWithType.vb: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable(Of Boolean), Selectable, CancellationToken, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},UnityEngine.UI.Text,System.Boolean)
-  name: BindTo(IUniTaskAsyncEnumerable<String>, UnityEngine.UI.Text, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable_System_String__UnityEngine_UI_Text_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},UnityEngine.UI.Text,System.Boolean)
-  name.vb: BindTo(IUniTaskAsyncEnumerable(Of String), UnityEngine.UI.Text, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<System.String>, UnityEngine.UI.Text, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of System.String), UnityEngine.UI.Text, System.Boolean)
-  nameWithType: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable<String>, UnityEngine.UI.Text, Boolean)
-  nameWithType.vb: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable(Of String), UnityEngine.UI.Text, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},UnityEngine.UI.Text,System.Threading.CancellationToken,System.Boolean)
-  name: BindTo(IUniTaskAsyncEnumerable<String>, UnityEngine.UI.Text, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable_System_String__UnityEngine_UI_Text_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},UnityEngine.UI.Text,System.Threading.CancellationToken,System.Boolean)
-  name.vb: BindTo(IUniTaskAsyncEnumerable(Of String), UnityEngine.UI.Text, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<System.String>, UnityEngine.UI.Text, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of System.String), UnityEngine.UI.Text, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable<String>, UnityEngine.UI.Text, CancellationToken, Boolean)
-  nameWithType.vb: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable(Of String), UnityEngine.UI.Text, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},Text,System.Boolean)
+  name: BindTo(IUniTaskAsyncEnumerable<String>, Text, Boolean)
+  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable_System_String__Text_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},Text,System.Boolean)
+  name.vb: BindTo(IUniTaskAsyncEnumerable(Of String), Text, Boolean)
+  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<System.String>, Text, System.Boolean)
+  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of System.String), Text, System.Boolean)
+  nameWithType: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable<String>, Text, Boolean)
+  nameWithType.vb: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable(Of String), Text, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},Text,System.Threading.CancellationToken,System.Boolean)
+  name: BindTo(IUniTaskAsyncEnumerable<String>, Text, CancellationToken, Boolean)
+  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable_System_String__Text_System_Threading_CancellationToken_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{System.String},Text,System.Threading.CancellationToken,System.Boolean)
+  name.vb: BindTo(IUniTaskAsyncEnumerable(Of String), Text, CancellationToken, Boolean)
+  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<System.String>, Text, System.Threading.CancellationToken, System.Boolean)
+  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of System.String), Text, System.Threading.CancellationToken, System.Boolean)
+  nameWithType: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable<String>, Text, CancellationToken, Boolean)
+  nameWithType.vb: UnityBindingExtensions.BindTo(IUniTaskAsyncEnumerable(Of String), Text, CancellationToken, Boolean)
 - uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo*
   name: BindTo
   href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo_
@@ -21813,33 +21721,33 @@ references:
   isSpec: "True"
   fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo
   nameWithType: UnityBindingExtensions.BindTo
-- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.AsyncReactiveProperty{``0},UnityEngine.UI.Text,System.Boolean)
-  name: BindTo<T>(AsyncReactiveProperty<T>, UnityEngine.UI.Text, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_AsyncReactiveProperty___0__UnityEngine_UI_Text_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.AsyncReactiveProperty{``0},UnityEngine.UI.Text,System.Boolean)
-  name.vb: BindTo(Of T)(AsyncReactiveProperty(Of T), UnityEngine.UI.Text, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.AsyncReactiveProperty<T>, UnityEngine.UI.Text, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.AsyncReactiveProperty(Of T), UnityEngine.UI.Text, System.Boolean)
-  nameWithType: UnityBindingExtensions.BindTo<T>(AsyncReactiveProperty<T>, UnityEngine.UI.Text, Boolean)
-  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(AsyncReactiveProperty(Of T), UnityEngine.UI.Text, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},UnityEngine.UI.Text,System.Boolean)
-  name: BindTo<T>(IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__UnityEngine_UI_Text_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},UnityEngine.UI.Text,System.Boolean)
-  name.vb: BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, System.Boolean)
-  nameWithType: UnityBindingExtensions.BindTo<T>(IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, Boolean)
-  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, Boolean)
-- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},UnityEngine.UI.Text,System.Threading.CancellationToken,System.Boolean)
-  name: BindTo<T>(IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, CancellationToken, Boolean)
-  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__UnityEngine_UI_Text_System_Threading_CancellationToken_System_Boolean_
-  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},UnityEngine.UI.Text,System.Threading.CancellationToken,System.Boolean)
-  name.vb: BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, CancellationToken, Boolean)
-  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, System.Threading.CancellationToken, System.Boolean)
-  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, System.Threading.CancellationToken, System.Boolean)
-  nameWithType: UnityBindingExtensions.BindTo<T>(IUniTaskAsyncEnumerable<T>, UnityEngine.UI.Text, CancellationToken, Boolean)
-  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), UnityEngine.UI.Text, CancellationToken, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.AsyncReactiveProperty{``0},Text,System.Boolean)
+  name: BindTo<T>(AsyncReactiveProperty<T>, Text, Boolean)
+  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_AsyncReactiveProperty___0__Text_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.AsyncReactiveProperty{``0},Text,System.Boolean)
+  name.vb: BindTo(Of T)(AsyncReactiveProperty(Of T), Text, Boolean)
+  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.AsyncReactiveProperty<T>, Text, System.Boolean)
+  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.AsyncReactiveProperty(Of T), Text, System.Boolean)
+  nameWithType: UnityBindingExtensions.BindTo<T>(AsyncReactiveProperty<T>, Text, Boolean)
+  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(AsyncReactiveProperty(Of T), Text, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Text,System.Boolean)
+  name: BindTo<T>(IUniTaskAsyncEnumerable<T>, Text, Boolean)
+  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__Text_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Text,System.Boolean)
+  name.vb: BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), Text, Boolean)
+  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, Text, System.Boolean)
+  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), Text, System.Boolean)
+  nameWithType: UnityBindingExtensions.BindTo<T>(IUniTaskAsyncEnumerable<T>, Text, Boolean)
+  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), Text, Boolean)
+- uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Text,System.Threading.CancellationToken,System.Boolean)
+  name: BindTo<T>(IUniTaskAsyncEnumerable<T>, Text, CancellationToken, Boolean)
+  href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__1_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0__Text_System_Threading_CancellationToken_System_Boolean_
+  commentId: M:Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``1(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},Text,System.Threading.CancellationToken,System.Boolean)
+  name.vb: BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), Text, CancellationToken, Boolean)
+  fullName: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo<T>(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable<T>, Text, System.Threading.CancellationToken, System.Boolean)
+  fullName.vb: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo(Of T)(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable(Of T), Text, System.Threading.CancellationToken, System.Boolean)
+  nameWithType: UnityBindingExtensions.BindTo<T>(IUniTaskAsyncEnumerable<T>, Text, CancellationToken, Boolean)
+  nameWithType.vb: UnityBindingExtensions.BindTo(Of T)(IUniTaskAsyncEnumerable(Of T), Text, CancellationToken, Boolean)
 - uid: Cysharp.Threading.Tasks.UnityBindingExtensions.BindTo``2(Cysharp.Threading.Tasks.IUniTaskAsyncEnumerable{``0},``1,System.Action{``1,``0},System.Boolean)
   name: BindTo<TSource, TObject>(IUniTaskAsyncEnumerable<TSource>, TObject, Action<TObject, TSource>, Boolean)
   href: api/Cysharp.Threading.Tasks.UnityBindingExtensions.html#Cysharp_Threading_Tasks_UnityBindingExtensions_BindTo__2_Cysharp_Threading_Tasks_IUniTaskAsyncEnumerable___0____1_System_Action___1___0__System_Boolean_
